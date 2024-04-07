@@ -1,4 +1,4 @@
-# JavaScript: Earthquake Visualization 
+# Earthquake Visualization with Leaflet
 
 <img width="695" alt="image" src="https://github.com/Colex317/leaflet-challenge/assets/148498483/336705be-fe28-4a0a-83ca-d5ae7c0bec55">
 
