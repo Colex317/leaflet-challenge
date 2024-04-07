@@ -14,12 +14,12 @@ Create the Earthquake Visualization
    
 **2. Import and visualize the data**
    
-     - Use Leaflet to create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
+   - Use Leaflet to create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
 
-          - Your data markers should reflect the earthquake's magnitude by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
+     - Your data markers should reflect the earthquake's magnitude by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
 
 
-    - Include popups that provide additional information about the earthquake when its associated marker is clicked.
+   - Include popups that provide additional information about the earthquake when its associated marker is clicked.
 
-    - Create a legend that will provide context for your map data.
+   - Create a legend that will provide context for your map data.
 
